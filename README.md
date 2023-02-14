@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my profile
 
 <!--
 **dilipkumar4813/dilipkumar4813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+Dilip Kumar is the Head of Technology at Fireworks Solutions Sdn Bhd. He has a broad range of experience working on various projects in different domains, including loyalty programmes, cryptocurrency, eCommerce, residential apps, and travel applications. Dilip has particular expertise in team building, setting up application architectures, client liaison, and leading end-to-end software development. He is a highly skilled leader who has successfully managed multifarious projects.
