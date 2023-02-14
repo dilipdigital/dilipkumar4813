@@ -1,5 +1,7 @@
 ### Welcome to my profile page 🔭, where ideas come to life! I hope you find my content helpful and engaging. Please feel free to explore and reach out to me if you have any questions or just want to chat. Thanks for stopping by!
 
+[:link: Linkedin](https://my.linkedin.com/in/dilipkumar4813)
+
 <!--
 **dilipkumar4813/dilipkumar4813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
